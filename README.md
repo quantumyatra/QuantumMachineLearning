@@ -9,9 +9,7 @@ I also plan to add a few chapters from [Qiskit textbook](https://qiskit.org/text
 
 Python and a good command of linear algebra are necessary. Experience with machine learning helps.
 
-# Structure
-
-**Module 0: Introduction**
+# Tentative course chapters [Few Qiskit chapters will be added in the middle]
 
 00_Course_Introduction.ipynb
 
@@ -19,15 +17,11 @@ Python and a good command of linear algebra are necessary. Experience with machi
 
 00_Introduction_to_the_Forest_SDK.ipynb
 
-**Module 1: Quantum Systems**
-
 02_Measurements_and_Mixed_States.ipynb
 
 03_Evolution_in_Closed_and_Open_Systems.ipynb
 
 04_Classical_and_Quantum_Many-Body_Physics.ipynb
-
-**Module 2: Quantum Computation**
 
 05_Gate-Model_Quantum_Computing.ipynb
 
@@ -37,8 +31,6 @@ Python and a good command of linear algebra are necessary. Experience with machi
 
 08_Sampling_a_Thermal_State.ipynb
 
-**Module 3: Classical-quantum hybrid learning algorithms**
-
 09_Discrete_Optimization_and_Ensemble_Learning.ipynb
 
 10_Discrete_Optimization_and_Unsupervised_Learning.ipynb
@@ -47,13 +39,6 @@ Python and a good command of linear algebra are necessary. Experience with machi
 
 12_Training_Probabilistic_Graphical_Models.ipynb
 
-**Module 4: Coherent Learning Protocols**
-
 13_Quantum_Phase_Estimation.ipynb
 
 14_Quantum_Matrix_Inversion.ipynb
-
-# Contributing
-
-We welcome contributions - simply fork the repository, and then make a pull request containing your contribution. We would especially love to see the course extended to other open source quantum computing frameworks. We also encourage bug reports and suggestions for enhancements.
-
