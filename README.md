@@ -8,7 +8,7 @@ I also plan to add a few chapters from [Qiskit textbook](https://qiskit.org/text
 # Chapters 
 
 **Few More Qiskit chapters will be added in the middle**
-* 00 Course Introduction
+-00 Course Introduction
 * 00 Introduction to Qiskit
 * 00 Introduction to the Forest SDK
 * 02 Measurements and Mixed States
