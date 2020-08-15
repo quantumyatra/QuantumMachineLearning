@@ -1,11 +1,9 @@
 # Quantum Machine Learning
-These notebooks are part of the [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) course offered in EdX. Here is the [original repo](https://gitlab.com/qosf/qml-mooc).
+DISCAIMER: These notebooks are part of the [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) course offered in EdX. Here is the [original repo](https://gitlab.com/qosf/qml-mooc). 
 
-The pace of development in quantum computing mirrors the rapid advances made in machine learning and artificial intelligence. It is natural to ask whether quantum technologies could boost learning algorithms: this field of enquiry is called quantum machine learning. This massively open online online course (MOOC) on [edX](https://www.edx.org/course/quantum-machine-learning) is offered by the University of Toronto on edX with an emphasis on what benefits current and near-future quantum technologies may bring to machine learning. These notebooks contain the lecture notes and the code for the course. The content is organized in four modules, with an additional introductory module to the course itself.
+However, I plan to make some heavy changes in most of the notes I have already updated some of them and I am in the process of changing others. Some of the standard changess include the using latest qiskit version in the notebooks and removing the deprecated functions.
 
-Since the course is hands-on, we found it important that you can try the code on actual quantum computers if you want to. There isn't a single, unified programming framework that would allow to address all available quantum hardware. For this reason, the notebooks are available in two versions: one in Qiskit targeting the IBM Q hardware and the Forest SDK targetting the Rigetti quantum computer. The notebooks also cover quantum annealing -- for that, the D-Wave Ocean Suite is used. For more details on setting up your computational environment locally, refer to the notebooks in Module 0.
-
-The code snippets in the notebooks are licensed under the MIT License. The text and figures are licensed under the Creative Commons Attribution 4.0 International Public License (CC-BY-4.0).
+We also plan to add a few chapters from [Qiskit textbook](https://qiskit.org/textbook/preface.html) in the middle in order to make the course a complete cource for any one from beginner level to the more advanced level. 
 
 # Prerequisites
 
