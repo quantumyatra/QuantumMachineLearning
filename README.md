@@ -9,36 +9,22 @@ I also plan to add a few chapters from [Qiskit textbook](https://qiskit.org/text
 
 Python and a good command of linear algebra are necessary. Experience with machine learning helps.
 
-# Tentative course chapters [Few Qiskit chapters will be added in the middle]
+# Tentative course chapters 
 
-00_Course_Introduction.ipynb
-
-00_Introduction_to_Qiskit.ipynb
-
-00_Introduction_to_the_Forest_SDK.ipynb
-
-02_Measurements_and_Mixed_States.ipynb
-
-03_Evolution_in_Closed_and_Open_Systems.ipynb
-
-04_Classical_and_Quantum_Many-Body_Physics.ipynb
-
-05_Gate-Model_Quantum_Computing.ipynb
-
-06_Adiabatic_Quantum_Computing.ipynb
-
-07_Variational_Circuits.ipynb
-
-08_Sampling_a_Thermal_State.ipynb
-
-09_Discrete_Optimization_and_Ensemble_Learning.ipynb
-
-10_Discrete_Optimization_and_Unsupervised_Learning.ipynb
-
-11_Kernel_Methods.ipynb
-
-12_Training_Probabilistic_Graphical_Models.ipynb
-
-13_Quantum_Phase_Estimation.ipynb
-
-14_Quantum_Matrix_Inversion.ipynb
+**Few Qiskit chapters will be added in the middle**
+* 00_Course_Introduction.ipynb
+* 00_Introduction_to_Qiskit.ipynb
+* 00_Introduction_to_the_Forest_SDK.ipynb
+* 02_Measurements_and_Mixed_States.ipynb
+* 03_Evolution_in_Closed_and_Open_Systems.ipynb
+* 04_Classical_and_Quantum_Many-Body_Physics.ipynb
+* 05_Gate-Model_Quantum_Computing.ipynb
+* 06_Adiabatic_Quantum_Computing.ipynb
+* 07_Variational_Circuits.ipynb
+* 08_Sampling_a_Thermal_State.ipynb
+* 09_Discrete_Optimization_and_Ensemble_Learning.ipynb
+* 10_Discrete_Optimization_and_Unsupervised_Learning.ipynb
+* 11_Kernel_Methods.ipynb
+* 12_Training_Probabilistic_Graphical_Models.ipynb
+* 13_Quantum_Phase_Estimation.ipynb
+* 14_Quantum_Matrix_Inversion.ipynb
