@@ -8,9 +8,7 @@ I also plan to add a few chapters from [Qiskit textbook](https://qiskit.org/text
 # Chapters 
 
 **Few More Qiskit chapters will be added in the middle**
--00 Course Introduction
-* 00 Introduction to Qiskit
-* 00 Introduction to the Forest SDK
+* 00 and 01 Introduction to the Course and Qiskit 
 * 02 Measurements and Mixed States
 * 03 Evolution in Closed and Open Systems
 * 04 Classical and Quantum Many-Body Physics
