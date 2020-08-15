@@ -19,6 +19,8 @@ Python and a good command of linear algebra are necessary. Experience with machi
 * 03_Evolution_in_Closed_and_Open_Systems
 * 04_Classical_and_Quantum_Many-Body_Physics
 * 05_Gate-Model_Quantum_Computing
+* 05_2 DJ, Shor Algorithm
+* 05_3 Shor algorithm, Quantum Fourier Transform
 * 06_Adiabatic_Quantum_Computing
 * 07_Variational_Circuits
 * 08_Sampling_a_Thermal_State
