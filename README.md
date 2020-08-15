@@ -5,24 +5,24 @@ However, I plan to make some heavy changes in most of the notes I have already u
 
 I also plan to add a few chapters from [Qiskit textbook](https://qiskit.org/textbook/preface.html) in the middle in order to make the course a complete cource for any one from beginner level to the more advanced level.  Please refere to the [actual git repo](https://github.com/anpaschool/QC-School-Fall2020) for the updates on Quantum Computing class -Fall 2020
 
-# Tentative course chapters 
+# Chapters 
 
 **Few More Qiskit chapters will be added in the middle**
-* 00_Course_Introduction
-* 00_Introduction_to_Qiskit
-* 00_Introduction_to_the_Forest_SDK
-* 02_Measurements_and_Mixed_States
-* 03_Evolution_in_Closed_and_Open_Systems
-* 04_Classical_and_Quantum_Many-Body_Physics
-* 05_Gate-Model_Quantum_Computing
-* 05_2 DJ, Shor Algorithm
-* 05_3 Shor algorithm, Quantum Fourier Transform
-* 06_Adiabatic_Quantum_Computing
-* 07_Variational_Circuits
-* 08_Sampling_a_Thermal_State
-* 09_Discrete_Optimization_and_Ensemble_Learning
-* 10_Discrete_Optimization_and_Unsupervised_Learning
-* 11_Kernel_Methods
-* 12_Training_Probabilistic_Graphical_Models
-* 13_Quantum_Phase_Estimation
-* 14_Quantum_Matrix_Inversion
+* 00 Course Introduction
+* 00 Introduction to Qiskit
+* 00 Introduction to the Forest SDK
+* 02 Measurements and Mixed States
+* 03 Evolution in Closed and Open Systems
+* 04 Classical and Quantum Many-Body Physics
+* 05 Gate-Model Quantum Computing
+* 05 2 DJ, Shor Algorithm
+* 05 3 Shor algorithm, Quantum Fourier Transform
+* 06 Adiabatic Quantum Computing
+* 07 Variational Circuits
+* 08 Sampling a Thermal State
+* 09 Discrete Optimization and Ensemble Learning
+* 10 Discrete Optimization and Unsupervised Learning
+* 11 Kernel Methods
+* 12 Training Probabilistic Graphical Models
+* 13 Quantum Phase Estimation
+* 14 Quantum Matrix Inversion
