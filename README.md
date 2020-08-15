@@ -13,8 +13,8 @@ I also plan to add a few chapters from [Qiskit textbook](https://qiskit.org/text
 * 03 Evolution in Closed and Open Systems
 * 04 Classical and Quantum Many-Body Physics
 * 05 Gate-Model Quantum Computing
-* 05 2 DJ, Shor Algorithm
-* 05 3 Shor algorithm, Quantum Fourier Transform
+* 05 II  DJ, Shor Algorithm
+* 05 III Shor algorithm, Quantum Fourier Transform
 * 06 Adiabatic Quantum Computing
 * 07 Variational Circuits
 * 08 Sampling a Thermal State
