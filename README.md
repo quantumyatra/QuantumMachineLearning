@@ -5,13 +5,9 @@ However, I plan to make some heavy changes in most of the notes I have already u
 
 I also plan to add a few chapters from [Qiskit textbook](https://qiskit.org/textbook/preface.html) in the middle in order to make the course a complete cource for any one from beginner level to the more advanced level.  Please refere to the [actual git repo](https://github.com/anpaschool/QC-School-Fall2020) for the updates on Quantum Computing class -Fall 2020
 
-# Prerequisites
-
-Python and a good command of linear algebra are necessary. Experience with machine learning helps.
-
 # Tentative course chapters 
 
-**Few Qiskit chapters will be added in the middle**
+**Few More Qiskit chapters will be added in the middle**
 * 00_Course_Introduction
 * 00_Introduction_to_Qiskit
 * 00_Introduction_to_the_Forest_SDK
