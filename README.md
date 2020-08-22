@@ -1,4 +1,7 @@
 # Quantum Machine Learning
+
+Note: Peter Wittek, the creator of the MOOC, [disappeared in an avalanche](https://www.cbc.ca/news/canada/toronto/peter-wittek-trisul-rescue-1.5305924) in October 2019. So let's take a moment to remember him and honour him for these notes and his contribution to QML.
+
 These notebooks are part of the [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) course offered in EdX. Here is the [original repo](https://gitlab.com/qosf/qml-mooc). 
 
 However, I plan to make some heavy changes in most of the notes I have already updated some of them and I am in the process of changing others. Some of the standard changess include the using latest qiskit version in the notebooks and removing the deprecated functions.
