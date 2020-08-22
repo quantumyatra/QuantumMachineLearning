@@ -5,6 +5,8 @@ However, I plan to make some heavy changes in most of the notes I have already u
 
 I also plan to add a few chapters from [Qiskit textbook](https://qiskit.org/textbook/preface.html) in the middle in order to make the course a complete cource for any one from beginner level to the more advanced level.  Please refere to the [actual git repo](https://github.com/anpaschool/QC-School-Fall2020) for the updates on Quantum Computing class -Fall 2020
 
+[Here](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg) is the link for the YouTube videos of the lectures.
+
 # Chapters 
 
 **Few More Qiskit chapters will be added in the middle**
