@@ -33,4 +33,4 @@ I also plan to add a few chapters from [Qiskit textbook](https://qiskit.org/text
 
 # Reference Books
 
-* Here is the [link](https://www.scottaaronson.com/democritus/) for **Quantum Computing Since Democritus** by **Scott Aaronson**.
+* Here is the [link](https://www.scottaaronson.com/democritus/) for **Quantum Computing Since Democritus** by **Scott Aaronson**. Please check the suggested reading list in that webpage.
