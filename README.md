@@ -29,3 +29,8 @@ I also plan to add a few chapters from [Qiskit textbook](https://qiskit.org/text
 * 12 Training Probabilistic Graphical Models
 * 13 Quantum Phase Estimation
 * 14 Quantum Matrix Inversion
+
+
+# Reference Books
+
+* Here is the [link](https://www.scottaaronson.com/democritus/) for Quantum Computing Since Democritus by Scott Aaronson.
